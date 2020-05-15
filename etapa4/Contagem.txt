@@ -1,0 +1,14 @@
+dados = sc.textFile('file:///home/cloudera/Projeto/MongoDB/contratos.json')
+contagem = dados.flatMap(lambda row: row.split(' '))
+contagem = contagem.filter(lambda w: w == 'risco')
+contagem = contagem.map(lambda word: (word,1))
+contagem = contagem.reduceByKey(lambda x, y: x+y)
+
+contagem.saveAsTextFile('riscoContagem')
+
+# para ver o resultado:
+
+hdfs dfs -cat /user/cloudera/riscoContagem/part-00000
+
+
+

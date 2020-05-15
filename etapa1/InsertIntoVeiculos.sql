@@ -1,0 +1,30 @@
+-- Dados retirados de arquivo oferecido pelo curso Engenheiro de Dados
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (3,'10/01/2019',2019,'BMW 750i xDrive','LWJ2931','Disponível',1450);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (4,'28/01/2019',2019,'Mercedes-Benz S65 AMG Coupe','LWJ2932','Disponível',1950);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (5,'12/01/2019',2019,'Infiniti Q50S 3.7 Sedan','LWJ2933','Disponível',2100);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (6,'30/01/2019',2019,'Volvo XC90 T8 Hybrid','LWJ2934','Disponível',1600);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (7,'06/01/2019',2019,'BMW 750i xDrive','LWJ2935','Disponível',1450);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (8,'24/01/2019',2019,'Infiniti Q50S 3.7 Sedan','LWJ2936','Disponível',2100);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (9,'27/01/2019',2019,'BMW 750i xDrive','LWJ2937','Disponível',1450);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (10,'19/01/2019',2019,'Tesla Model S P90D','LWJ2938','Disponível',1800);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (11,'27/01/2019',2019,'Infiniti Q50S 3.7 Sedan','LWJ2939','Disponível',2100);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (12,'27/01/2019',2019,'BMW 750i xDrive','LWJ2940','Disponível',1450);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (13,'21/01/2019',2019,'Mercedes-Benz S65 AMG Coupe','LWJ2941','Disponível',1950);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (14,'10/01/2019',2019,'Infiniti Q50S 3.7 Sedan','LWJ2942','Disponível',2100);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (15,'07/01/2019',2019,'Volvo XC90 T8 Hybrid','LWJ2943','Disponível',1600);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (16,'25/01/2019',2019,'Volvo XC90 T8 Hybrid','LWJ2944','Disponível',1600);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (17,'22/01/2019',2019,'Volvo XC90 T8 Hybrid','LWJ2945','Disponível',1600);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (18,'24/01/2019',2019,'BMW 750i xDrive','LWJ2946','Disponível',1450);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (19,'16/01/2019',2019,'Mercedes-Benz S65 AMG Coupe','LWJ2947','Disponível',1950);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (20,'30/01/2019',2019,'Volvo XC90 T8 Hybrid','LWJ2948','Disponível',1600);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (21,'04/01/2019',2019,'Tesla Model S P90D','LWJ2949','Disponível',1800);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (22,'23/01/2019',2019,'Infiniti Q50S 3.7 Sedan','LWJ2950','Disponível',2100);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (23,'13/01/2019',2019,'BMW 750i xDrive','LWJ2951','Disponível',1450);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (24,'05/01/2019',2019,'Volvo XC90 T8 Hybrid','LWJ2952','Disponível',1600);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (25,'06/01/2019',2019,'Mercedes-Benz S65 AMG Coupe','LWJ2953','Indisponivel',1950);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (26,'05/01/2019',2019,'BMW 750i xDrive','LWJ2954','Disponível',1450);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (27,'30/01/2019',2019,'Tesla Model S P90D','LWJ2955','Disponível',1800);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (28,'28/01/2019',2019,'BMW 750i xDrive','LWJ2956','Disponível',1450);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (29,'15/01/2019',2019,'Infiniti Q50S 3.7 Sedan','LWJ2957','Disponível',2100);
+INSERT INTO Relacional.veiculos(idveiculo, dataaquisicao, ano, modelo, placa, status, valordiaria) VALUES (30,'12/01/2019',2019,'BMW 750i xDrive','LWJ2958','Disponível',1450);
+
