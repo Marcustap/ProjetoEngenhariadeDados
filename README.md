@@ -1,7 +1,7 @@
 # ProjetoEngenhariadeDados
 Projeto prático proposto como encerramento do curso Engenharia de Dados: Domine BigData!
 
-Projeto proposto como encerramento do Curso Engenharia de DadosComo proposta de encerramento do curso, foi proposto a realização de um projeto dividido em quatro partes:
+Projeto proposto como encerramento do Curso Engenharia de Dados dividido em quatro partes:
 
 1ª Parte: Criação de um Banco de Dados com Modelo Relacional de uma empresa fictícia de locação de carros autônomos. 
   - Todos os dados fictícios usados para popular o Banco de Dados foram oferecidos no curso; 
